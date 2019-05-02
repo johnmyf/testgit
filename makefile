@@ -1,5 +1,5 @@
 all:helloworld
 
 helloworld:helloworld.cpp
-	g++ -g helloworld helloworld.cpp
+	g++ -o -g helloworld helloworld.cpp
 
